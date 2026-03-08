@@ -1,1 +1,1 @@
-# Clinical-document-automation
+# clinai
